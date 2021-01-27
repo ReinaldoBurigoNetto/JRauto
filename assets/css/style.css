@@ -2525,7 +2525,7 @@ p {
   padding: 5px 0 16px;
   background-color: #fff;
   border-radius: 50px;
-  border: 2px solid #049ae5;
+  border: 2px solid#3e4095;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -2562,7 +2562,7 @@ p {
     border: 0;
     cursor: pointer; }
   .testimonial-two-active .slick-dots li.slick-active button {
-    background-color: #049ae5; }
+    background-color:#3e4096; }
 
 .single-testimonial-two {
   border: 5px solid  rgb(27, 27, 27);
